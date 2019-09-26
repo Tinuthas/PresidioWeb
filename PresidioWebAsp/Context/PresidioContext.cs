@@ -11,6 +11,7 @@ namespace PresidioWebAsp.Context
     {
 
         public DbSet<Presidiario> Presidiarios { get; set; }
+        public DbSet<Cela> Celas{ get; set; }
         public PresidioContext(DbContextOptions options)
                : base(options) { }
 

@@ -28,3 +28,4 @@ D:\PresidioWebAsp\PresidioWebAsp\obj\Debug\netcoreapp2.2\PresidioWebAsp.Views.pd
 D:\PresidioWebAsp\PresidioWebAsp\obj\Debug\netcoreapp2.2\PresidioWebAsp.dll
 D:\PresidioWebAsp\PresidioWebAsp\obj\Debug\netcoreapp2.2\PresidioWebAsp.pdb
 D:\PresidioWebAsp\PresidioWebAsp\obj\Debug\netcoreapp2.2\PresidioWebAsp.csproj.CopyComplete
+D:\PresidioWebAsp\PresidioWebAsp\obj\Debug\netcoreapp2.2\Razor\Views\Presidiario\Cadastrar.g.cshtml.cs
